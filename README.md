@@ -1,14 +1,20 @@
 # VA-Open-Data
 Analysis of publicly available data from the Department of Veterans Affairs
 
-## Abstract
-Combat veterans experience high rates of post-traumatic stress, traumatic brain injury, chronic homelessness,
-substance abuse and suicide as a result of their military service. The US Department of Veterans Affairs provides a 
-variety of mental health services to address these issues, many of which are offered through partnerships with state and local
-governments, non-profit organizations and/or state and private universities. This analysis will focus on how these partnerships
-effect the efficacy of federal tax dollars in addressing these mental health issues.
+## Project Aims
 
-By learning from the successes and failures of local and federal organizations (who deserve thanks for providing publicly available datasets) we can improve the quality mental health care for everyone, veterans and non-veterans alike.
+### Raise public awareness for veteran related issues
+Healthcare and Disability (PTS, TBI, suicide, homelessness, substance abuse)
+Education, Employment, and Housing (GI Bill, VA home loans)
+
+### Improve VA transparency and accountability
+The public should be aware how their local VA facilities are performing relative to other facilities around the country. This can promote grassroots efforts and non-profits to fill in the gaps.
+
+### Increase utilization of VA, Nonprofit, and Privately offered services to veterans
+Many VA services are underutilized because veterans are simply unaware of them (I have personal anecdotes). There are also a plethora of non-profits and private groups offering services to veterans.
+
+## Methods
+I'm hoping to achieve these aims by creating a gallery of interactive visualizations that can be distributed under the Data for Democracy brand. Our metrics initially will be page views. Later iterations of the project could include a well maintained dashboard for veterans, local governments, and members of the public to utilize.
 
 ## Gallery
 [<img src="https://leggitta.github.io/plot_ptsd_by_state.png" height="100" width="200">](https://leggitta.github.io/ptsd_by_state.html)
