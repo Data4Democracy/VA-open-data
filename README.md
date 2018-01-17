@@ -18,7 +18,7 @@ I'm hoping to achieve these aims by creating a gallery of interactive visualizat
 
 ## Gallery
 [<img src="https://leggitta.github.io/plot_ptsd_by_state.png" height="100" width="200">](https://leggitta.github.io/ptsd_by_state.html)
-<img src="https://www.dropbox.com/s/rw5qhh6t798q07m/vet_demographics_box.png?raw=1" height="100" widht="200">
+[<img src="https://www.dropbox.com/s/rw5qhh6t798q07m/vet_demographics_box.png?raw=1" height="100" widht="200">](https://github.com/Data4Democracy/VA-open-data/blob/master/ipynb/reid_demographics.ipynb)
 
 ## Data Sources
 - [VA Open Data Portal](https://www.va.gov/data/)
