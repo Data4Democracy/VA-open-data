@@ -1,15 +1,15 @@
 StationID,Facility,Address,State,Phone,Mailing_Address
 463,Alaska VA Healthcare System,"1201 North Muldoon Road Anchorage, AK 99504",AK,907-257-4700 Or 907-257-4700,
 0502V,Anchorage Vet Center,"4400 Business Park Blvd, Suite B-34 Anchorage, AK 99503",AK,907-563-6966 Or 877-927-8387,
-463GA,Fairbanks VA Community Based Outpatient Clinic,"Bldg 4076, Neeley Road, Room 1J-101 Fort Wainwright, AK 99703 ",AK,907-361-6370 Or 907-361-6370,"P.O. Box 74570 Fairbanks, AK 99707"
+463GA,Fairbanks VA Community Based Outpatient Clinic,"Bldg 4076, Neeley Road, Room 1J-101 Fort Wainwright, AK 99703Â ",AK,907-361-6370 Or 907-361-6370,"P.O. Box 74570Â Fairbanks, AK 99707"
 0511V,Fairbanks Vet Center,"540 4th Ave., Suite 100 Fairbanks, AK 99701",AK,907-456-4238 Or 877-927-8387,
-463,Juneau VA Outreach Clinic,"709 West 9th Street, Suite 150 Juneau, AK 99801 ",AK,907-796-4300 Or 907-796-4300,"P.O. Box 20069 Juneau, AK 99802"
+463,Juneau VA Outreach Clinic,"709 West 9th Street, Suite 150 Juneau, AK 99801Â ",AK,907-796-4300 Or 907-796-4300,"P.O. Box 20069Â Juneau, AK 99802"
 463GB,Kenai VA Community Based Outpatient Clinic,"11312 Kenai Spur Highway, Suite 39 Kenai, AK 99611",AK,907-395-4100 Or 877-797-8924,
 05021V,Kenai Vet Center Outstation,"43299 Kalifornsky Beach Rd. Ste 4 Soldotna, AK 99669",AK,907-260-7640 Or 877-927-8387,
 463GC,Mat-Su VA Community Based Outpatient Clinic,"865 N. Seward Meridian Parkway, Suite 105 Wasilla, AK 99654",AK,907-631-3100 Or 800-323-8648,
 0512V,Wasilla Vet Center,"851 E. West Point Drive Suite 102 Wasilla, AK 99654",AK,907-376-4318 Or 907-376-4318,
-910,Fort Richardson National Cemetery,"Bldg 58-512, Davis Hwy Fort Richardson, AK 99505 ",AK,907-384-7075,"P.O. Box 5-498 Fort Richardson, AK 99505"
-905,Sitka National Cemetery,"803 Sawmill Creek Road Sitka, AK 99835 ",AK,907-384-7075,"P.O. Box 5-498 Ft. Richardson, AK 99505"
+910,Fort Richardson National Cemetery,"Bldg 58-512, Davis Hwy Fort Richardson, AK 99505Â ",AK,907-384-7075,"P.O. Box 5-498Â Fort Richardson, AK 99505"
+905,Sitka National Cemetery,"803 Sawmill Creek Road Sitka, AK 99835Â ",AK,907-384-7075,"P.O. Box 5-498Â Ft. Richardson, AK 99505"
 463,Anchorage Regional Benefit Office,"1201 North Muldoon Road Anchorage, AK 99504",AK,800-827-1000,
 363,Intake Site At Eielson Air Force Base,"Dept of Veterans Affairs (VARO) Anchorage, AK 99508",AK,,
 363,Intake Site At Elmendorf Air Force Base,"Dept of Veterans Affairs (VARO) Anchorage, AK 99508",AK,,
@@ -20,7 +20,7 @@ StationID,Facility,Address,State,Phone,Mailing_Address
 363,Intake Site At Sitka Coast Guard,"Dept of Veterans Affairs (VARO) Anchorage, AK 99508",AK,,
 521GE,Anniston/Oxford Clinic,"96 Ali Way Creekside South Oxford, AL 36203",AL,256-832-4141,
 521GG,Bessemer CBOC,"975 9th Avenue, SW-Suite 400 at UAB West Medical Center West Bessemer, AL 32055",AL,205-428-3495,
-521GJ,Birmingham VA Clinic,"2415 7th Avenue South Birmingham, AL 35233 ",AL,205-933-8101,"700 19th Street South Birmingham, AL 35233"
+521GJ,Birmingham VA Clinic,"2415 7th Avenue South Birmingham, AL 35233Â ",AL,205-933-8101,"700 19th Street SouthÂ Birmingham, AL 35233"
 521,Birmingham VA Medical Center,"700 S. 19th Street Birmingham, AL 35233",AL,205-933-8101,
 0739V,Birmingham Vet Center,"400 Emery Drive, Suite 200 Hoover, AL 35244",AL,205-212-3122 Or 877-927-8387,
 619A4,Central Alabama Veterans Health Care System East Campus,"2400 Hospital Road Tuskegee, AL 36083-5001",AL,334-727-0550 Or 334-727-0550,
@@ -44,7 +44,7 @@ StationID,Facility,Address,State,Phone,Mailing_Address
 0741V,Mobile Vet Center,"3221 Springhill Ave Bldg 2, Suite C Mobile, AL 36607",AL,251-478-5906 Or 251-478-5906,
 927,Alabama National Cemetery,"3133 Highway 119 Montevallo, AL 35115",AL,205-665-9039,
 908,Fort Mitchell National Cemetery,"553 Highway 165 Ft. Mitchell, AL 36856",AL,334-855-4731,
-862,Mobile National Cemetery,"1202 Virginia Street Mobile, AL 36604 ",AL,850-453-4846,"Naval Air Station, 1 Cemetery Road Pensacola, FL 32508-1054"
+862,Mobile National Cemetery,"1202 Virginia Street Mobile, AL 36604Â ",AL,850-453-4846,"Naval Air Station, 1 Cemetery RoadÂ Pensacola, FL 32508-1054"
 322,Intake Site At Fort Rucker,"ACAP Center Fort Rucker, AL 36362",AL,,
 322,Intake Site At Maxwell Air Force Base,"Maxwell-Gunter Transition Services Maxwell AFB, AL 36112",AL,,
 322,Intake Site At Redstone Arsenal,"Fox Army Health Center Redstone Arsenal, AL 35758",AL,256-955-8888 X 1622,
@@ -62,7 +62,7 @@ StationID,Facility,Address,State,Phone,Mailing_Address
 564GA,Harrison OPC,"707 N Main St Harrison, AR 72601",AR,870-741-3592,
 598GC,Hot Springs CBOC,"177 Sawtooth Oak St Hot Springs, AR 71901",AR,501-520-6250 Or 501-520-6250,
 0713V,Little Rock Vet Center,"201 W. Broadway St. Suite A North Little Rock, AR 72114",AR,501-324-6395 Or 501-324-6395,
-598GD,Mena CBOC,"300 S. Morrow Road Mena, AR 71953 ",AR,501-609-2700 Or 855-838-2369,"300 S. Morrow Road Mena, AR 71953"
+598GD,Mena CBOC,"300 S. Morrow Road Mena, AR 71953Â ",AR,501-609-2700 Or 855-838-2369,"300 S. Morrow RoadÂ Mena, AR 71953"
 598GA,Mountain Home CBOC,"759 Hwy 62 East Mountain Home, AR 72653",AR,870-594-8387 Or 877-338-8003,
 564,"Ozark, Arkansas OPC","2713 West Commercial Ozark, AR 72949",AR,479-508-1000 Or 479-508-1000,
 598,Pine Bluff CBOC,"4747 Dusty Lake Drive Suite 203 Pine Bluff, AR 71603",AR,870-541-9300,
@@ -75,13 +75,13 @@ StationID,Facility,Address,State,Phone,Mailing_Address
 858,Little Rock National Cemetery,"2523 Springer Boulevard Little Rock, AR 72206",AR,479-783-5345,
 350,Intake Site At Little Rock Air Force Base,"Little Rock VA Regional Office North Little Rock, AR 72114",AR,,
 350,North Little Rock Regional Benefit Office,"2200 Fort Roots Drive, Building 65 North Little Rock, AR 72114-1756",AR,800-827-1000,
-616,American Samoa Vet Center,"Ottoville Road, P.O. Box 982942 Pago Pago, AS 96799 ",AS,684-699-3760 Or 877-927-8387,"P.O. Box 982942 Pago Pago, AS 96799"
-459,VA American Samoa CBOC,"Fiatele Teo Army Reserve Bldg Pago Pago, AS 96799 ",AS,684-699-3730,"PO Box 1005 Pago Pago, AS 96799"
+616,American Samoa Vet Center,"Ottoville Road, P.O. Box 982942 Pago Pago, AS 96799Â ",AS,684-699-3760 Or 877-927-8387,"P.O. Box 982942Â Pago Pago, AS 96799"
+459,VA American Samoa CBOC,"Fiatele Teo Army Reserve Bldg Pago Pago, AS 96799Â ",AS,684-699-3730,"PO Box 1005Â Pago Pago, AS 96799"
 649GE,Anthem CBOC,"3618 West Anthem Way, Bldg. D, #120 Anthem, AZ 85086",AZ,623-249-2300 Or 800-949-1005 X 2300,
 678GC,Casa Grande CBOC,"1876 E. Sabin Drive, Building A Ste 15 Casa Grande, AZ 85122",AZ,520-836-2536,
 678CG,Casa Grande Rural Health Care Coordination Center,"1179 E. Cottonwood Lane, Suite 1 Casa Grande, AZ 85122",AZ,520-629-4801 Or 520-629-4801,
 649,Chinle Comprehensive Care Facility (Indian Health Services),"Hwy 191 and Hospital Drive Chinle, AZ 86503",AZ,928-674-7675,
-05161V,Chinle Vet Center Outstation,"Navajo Route 7, Old BIA Complex-B59 Chinle, AZ 86503 ",AZ,844-286-7270,"P.O. Box 1934 Chinle, AZ 86503"
+05161V,Chinle Vet Center Outstation,"Navajo Route 7, Old BIA Complex-B59 Chinle, AZ 86503Â ",AZ,844-286-7270,"P.O. Box 1934Â Chinle, AZ 86503"
 649GE,Cottonwood CBOC,"501 S. Willard Cottonwood, AZ 86326",AZ,928-649-1523,
 649GB,Flagstaff CBOC,"1300 W. University Ave. Suite 200 Flagstaff, AZ 86001",AZ,928-226-1056 Or 800-949-1005 X 5650,
 644,Globe-Miami VA Health Care Clinic,"5860 S. Hospital Drive, Suite 111 Globe, AZ 85501-9449",AZ,928-425-0027,
@@ -232,15 +232,15 @@ StationID,Facility,Address,State,Phone,Mailing_Address
 600GC,Villages At Cabrillo,"2001 River Ave, Bldg 28 Long Beach, CA 90806",CA,562-388-8000,
 10N22,VISN 22: Desert Pacific Healthcare Network,"300 Oceangate, Suite 700 Long Beach, CA 90802",CA,562-826-5963,
 600gd,Whittier/Santa Fe Springs Clinic,"10330 Pioneer Blvd Suite 180 Santa Fe Springs, CA 90670",CA,562-347-2200,
-929,Bakersfield National Cemetery,"30338 East Bear Mountain Blvd Arvin, CA 93203 ",CA,661-867-2250,"PO Box 459 Arvin, CA 93203"
-892,Fort Rosecrans National Cemetery,"Cabrillo Memorial Drive San Diego, CA 92106 ",CA,858-658-7360,"P.O. Box 6237, Point Loma San Diego, CA 92106"
+929,Bakersfield National Cemetery,"30338 East Bear Mountain Blvd Arvin, CA 93203Â ",CA,661-867-2250,"PO Box 459Â Arvin, CA 93203"
+892,Fort Rosecrans National Cemetery,"Cabrillo Memorial Drive San Diego, CA 92106Â ",CA,858-658-7360,"P.O. Box 6237, Point LomaÂ San Diego, CA 92106"
 895,Golden Gate National Cemetery,"1300 Sneath Lane San Bruno, CA 94066",CA,650-589-7737,
 898,Los Angeles National Cemetery,"950 S Sepulveda Blvd. Los Angeles, CA 90049",CA,310-268-4675,
 892,Miramar National Cemetery,"5795 Nobel Drive San Diego, CA 92122",CA,858-658-7360,
 775,Pacific District,"1301 Clay Street, Suite 1230 North Oakland, CA 94612-5209",CA,510-637-6270,
 901,Riverside National Cemetery,"22495 Van Buren Blvd. Riverside, CA 92518",CA,951-653-8417,
 921,Sacramento Valley National Cemetery,"5810 Midway Road Dixon, CA 95620",CA,707-693-2460,
-903,San Francisco National Cemetery,"1 Lincoln Boulevard, Presidio of San Francisco San Francisco, CA 94129 ",CA,650-589-7737,"1300 Sneath Lane San Bruno, CA 94129"
+903,San Francisco National Cemetery,"1 Lincoln Boulevard, Presidio of San Francisco San Francisco, CA 94129Â ",CA,650-589-7737,"1300 Sneath LaneÂ San Bruno, CA 94129"
 913,San Joaquin Valley National Cemetery,"32053 West McCabe Rd. Santa Nella, CA 95322",CA,209-854-1040,
 343,Intake Site At Beale Air Force Base Hospital,"15301 Warren Shingle Road Beale, CA 95903",CA,,
 377,Intake Site At Camp Pendleton,"VA Pre-Discharge Center, Bldg 13150, Room 226 Camp Pendleton, CA 92055",CA,,
@@ -291,15 +291,15 @@ StationID,Facility,Address,State,Phone,Mailing_Address
 442,Sterling Mobile Telehealth Clinic,"100 College Dr. Sterling, CO 80751",CO,888-483-9127 X 3816,
 554,VA Eastern Colorado Health Care System(ECHCS),"1055 Clermont Street Denver, CO 80220",CO,303-399-8020,
 10N19,VISN 19: Rocky Mountain Network,"4100 E. Mississippi Ave., 11th floor Glendale, CO 80246",CO,303-202-8165,
-789,Continental District,"155 Van Gordon Street Lakewood, CO 80228 ",CO,303-914-5720,"P.O. Box 25126 Denver, CO 80225"
+789,Continental District,"155 Van Gordon Street Lakewood, CO 80228Â ",CO,303-914-5720,"P.O. Box 25126Â Denver, CO 80225"
 888,Fort Logan National Cemetery,"4400 W. Kenyon Ave. Denver, CO 80236",CO,303-761-0117,
 889,Fort Lyon National Cemetery,"15700 County Road HH Las Animas, CO 81054",CO,303-761-0117,
 384,Continental District,"155 Van Gordon Street Lakewood, CO 80228",CO,800-827-1000,
 339,Denver Regional Benefit Office,"155 Van Gordon Street Lakewood, CO 80225",CO,800-827-1000,
 339,Denver Regional Loan Center,"155 Van Gordon Street Lakewood, CO 80225",CO,800-827-1000,
-339,Intake Site At Buckley Air Force Base,"1626 O€™Connell Blvd., Building 813, 3rd Floor Fort Carson, CO 80913",CO,,
-339,Intake Site At Fort Carson,"1626 O€™Connell Blvd., Bldg. 813, 3rd Floor Fort Carson, CO 80913",CO,,
-339,Intake Site At Peterson Air Force Base,"1626 O€™Connell Blvd., Building 813, 3rd Floor Fort Carson, CO 80913",CO,,
+339,Intake Site At Buckley Air Force Base,"1626 OÂ€Â™Connell Blvd., Building 813, 3rd Floor Fort Carson, CO 80913",CO,,
+339,Intake Site At Fort Carson,"1626 OÂ€Â™Connell Blvd., Bldg. 813, 3rd Floor Fort Carson, CO 80913",CO,,
+339,Intake Site At Peterson Air Force Base,"1626 OÂ€Â™Connell Blvd., Building 813, 3rd Floor Fort Carson, CO 80913",CO,,
 339,Intake Site At Schriever Air Force Base,"1626 O'Connell Blvd., Bldg 813, 3rd Floor Fort Carson, CO 80913",CO,,
 339,Intake Site At USAF Academy,"1626 O'Connell Blvd., Building 813, 3rd Floor Fort Carson, CO 80913",CO,,
 689GE,Danbury Outpatient Clinic,"7 Germantown Road, Ste 2B Danbury, CT 06810",CT,203-798-8422,
@@ -315,7 +315,7 @@ StationID,Facility,Address,State,Phone,Mailing_Address
 689GA,Waterbury Outpatient Clinic,"95 Scovill Street Waterbury, CT 06706",CT,203-465-5292,
 689GC,Willimantic Outpatient Clinic,"1320 Main Street Willimantic, CT 06226",CT,860-450-7583,
 689GD,Winsted Outpatient Clinic,"115 Spencer Street Winsted, CT 06908",CT,860-738-6985,
-308,Hartford Regional Benefit Office,"555 Willard Avenue Newington, CT 06111 ",CT,800-827-1000,"P.O. Box 310909 Newington, CT 06131"
+308,Hartford Regional Benefit Office,"555 Willard Avenue Newington, CT 06111Â ",CT,800-827-1000,"P.O. Box 310909Â Newington, CT 06131"
 308,Intake Site At US Naval Submarine Base New London at Groton,"Fleet & Family Support Center Bldg 83 Groton, CT 06349",CT,,
 101,Department of Veterans Affairs,"810 Vermont Ave NW Washington, DC 20420",DC,,
 101,Veterans Health Administration,"810 Vermont Ave. NW Washington, DC 20420",DC,202-461-7000,
@@ -334,7 +334,7 @@ StationID,Facility,Address,State,Phone,Mailing_Address
 101,Board of Veterans' Appeals,"810 Vermont Ave. NW Washington, DC 20420",DC,,
 101,Special Assistant to the Secretary for Veterans Service Organizations Liaison,"810 Vermont Ave. NW Washington, DC 20420",DC,,
 101,Center for Women Veterans,"810 Vermont Ave. NW Washington, DC 20420",DC,800-827-1000,
-101,Office of Construction & Facilities Management,"425 I Street NW Washington, DC 20001 ",DC,202-632-4607,"810 Vermont Ave NW (00CFM) Washington, DC 20420"
+101,Office of Construction & Facilities Management,"425 I Street NW Washington, DC 20001Â ",DC,202-632-4607,"810 Vermont Ave NW (00CFM)Â Washington, DC 20420"
 54,Congressional Cemetery Government Lots,"1801 E Street, SE Washington, DC 20003",DC,410-644-9696,
 372,Intake Site At Bolling Air Force Base,"Airman and Family Readiness Center118 Brookley Avenue, Bldg. 13, Suite 100 Bolling AFB, DC 20032",DC,,
 372,Intake Site At DC Coast Guard,"Coast Guard Head Quarters2100 Second Street, SW Washington, DC 20593",DC,,
@@ -347,7 +347,7 @@ StationID,Facility,Address,State,Phone,Mailing_Address
 0215V,Wilmington Vet Center,"2710 Centerville Road, Suite 103 Wilmington, DE 19808",DE,302-994-1660 Or 302-994-1660,
 310,Intake Site At Dover Air Force Base,"Airman & Family Readiness Center Dover AFB, DE 19902",DE,,
 460,Wilmington Regional Benefit Office,"1601 Kirkwood Highway Wilmington, DE 19805",DE,215-842-2000,
-516,Bay Pines VA Healthcare System,"10000 Bay Pines Blvd Bay Pines, FL 33744 ",FL,727-398-6661 Or 727-398-6661,"P.O.Box 5005 Bay Pines, FL 33744"
+516,Bay Pines VA Healthcare System,"10000 Bay Pines Blvd Bay Pines, FL 33744Â ",FL,727-398-6661 Or 727-398-6661,"P.O.Box 5005Â Bay Pines, FL 33744"
 548GD,Boca Raton CBOC,"901 Meadows Road Boca Raton, FL 33433",FL,561-416-8995,
 516GD,Bradenton Community-Based Outpatient Clinic,"5520 S.R. 64 Suite 101 Bradenton, FL 34208",FL,941-721-0649,
 673GC,Brooksville CBOC,"14540 Cortez Blvd., Suite 108 Brooksville, FL 34613",FL,352-597-8287,
@@ -437,7 +437,7 @@ StationID,Facility,Address,State,Phone,Mailing_Address
 520GB,Panama City Outpatient Clinic,"2600 Veterans Way(along Magnolia Beach Road) Panama City Beach, FL 32408",FL,850-636-7000 Or 888-231-5047 X 7331,
 0742V,Pensacola Vet Center,"4504 Twin Oaks Drive Pensacola, FL 32506",FL,850-456-6113 Or 850-456-5886,
 828,Barrancas National Cemetery,"Naval Air Station, 1 Cemetery Road Pensacola, FL 32508",FL,850-453-4108,
-830,Bay Pines National Cemetery,"10000 Bay Pines Boulevard North St. Petersburg, FL 33708 ",FL,727-319-6479,"P.O. Box 477 Bay Pines, FL 33744"
+830,Bay Pines National Cemetery,"10000 Bay Pines Boulevard North St. Petersburg, FL 33708Â ",FL,727-319-6479,"P.O. Box 477Â Bay Pines, FL 33744"
 934,Cape Canaveral National Cemetery,"5525 U.S. Highway 1, North Mims, FL 32754",FL,321-383-2638,
 911,Florida National Cemetery,"6502 S.W. 102nd Avenue Bushnell, FL 33513",FL,352-793-7740,
 928,Jacksonville National Cemetery,"4083 Lannie Road Jacksonville, FL 32218",FL,904-766-5222,
@@ -459,8 +459,8 @@ StationID,Facility,Address,State,Phone,Mailing_Address
 317,Intake Site At Naval Support Activity-Panama City,"Fleet & Family Support Center Panama City, FL 32407",FL,,
 317,Intake Site At Patrick Air Force Base,"VA Office of Public Contact Viera, FL 32940",FL,,
 317,Intake Site At Tyndall Air Force Base,"325 FSS/FSFR Tyndall AFB, FL 32403",FL,,
-317,St. Petersburg Regional Benefit Office,"9500 Bay Pines Boulevard St. Petersburg, FL 33708 ",FL,800-827-1000,"P.O. Box 1437 St. Petersburg, FL 33731"
-317,St. Petersburg Regional Loan Center,"9500 Bay Pines Boulevard St. Petersburg, FL 33708 ",FL,800-827-1000,"P.O. Box 1437 St. Petersburg, FL 33731"
+317,St. Petersburg Regional Benefit Office,"9500 Bay Pines Boulevard St. Petersburg, FL 33708Â ",FL,800-827-1000,"P.O. Box 1437Â St. Petersburg, FL 33731"
+317,St. Petersburg Regional Loan Center,"9500 Bay Pines Boulevard St. Petersburg, FL 33708Â ",FL,800-827-1000,"P.O. Box 1437Â St. Petersburg, FL 33731"
 557GB,Albany Clinic,"814 Radford Blvd., Building 7000 Albany, GA 31701",GA,229-446-9000,
 509GA,Athens Clinic,"9249 Highway 29 North Athens, GA 30601",GA,706-227-4534,
 508QF,Atlanta VA Clinic,"250 N. Arcadia Avenue Decatur, GA 30030",GA,404-329-2222,
@@ -501,11 +501,11 @@ StationID,Facility,Address,State,Phone,Mailing_Address
 573,St Marys CBOC,"2603 Osbourne Road, Ste E St Marys, GA 31558",GA,912-510-3420,
 573GA,Valdosta CBOC,"2841 N. Patterson Street Valdosta, GA 31602",GA,229-293-0132 Or 877-303-8387,
 573GM,Waycross CBOC,"515B City Boulevard Waycross, GA 31501",GA,912-279-4400,
-922,Georgia National Cemetery,"2025 Mount Carmel Church Lane Canton, GA 30114 ",GA,770-479-9300,"2025 Mount Carmel Church Lane Canton, GA 30114"
+922,Georgia National Cemetery,"2025 Mount Carmel Church Lane Canton, GA 30114Â ",GA,770-479-9300,"2025 Mount Carmel Church LaneÂ Canton, GA 30114"
 859,Marietta National Cemetery,"500 Washington Avenue Marietta, GA 30060",GA,866-236-8159,
 788,Southeast District,"1700 Clairmont Road 4th floor Decatur, GA 30033",GA,404-929-5899,
 316,Atlanta Regional Benefit Office,"1700 Clairmont Road Decatur, GA 30033",GA,800-827-1000,
-316,Atlanta Regional Loan Center,"1700 Clairmont Road Decatur, GA 30033 ",GA,800-827-1000,"P.O. Box 100026 Decatur, GA 30031-7026"
+316,Atlanta Regional Loan Center,"1700 Clairmont Road Decatur, GA 30033Â ",GA,800-827-1000,"P.O. Box 100026Â Decatur, GA 30031-7026"
 316,Intake Site At Fort Benning,"Dept of VA, Bldg 2751, 6520 Marchant Ave Fort Benning, GA 31905",GA,,
 316,Intake Site At Fort Gordon,"Dept of Veterans Affairs, Bldg 33800 Fort Gordon, GA 30905",GA,,
 316,Intake Site At Fort Stewart/Hunter Army Airfield,"Audie Murphy Soldier Center (3 ID Welcome Center) Fort Stewart, GA 31409",GA,,
@@ -634,18 +634,18 @@ StationID,Facility,Address,State,Phone,Mailing_Address
 800,Alton National Cemetery,"600 Pearl Street Alton, IL 62002",IL,314-845-8320,
 806,Camp Butler National Cemetery,"5063 Camp Butler Road Springfield, IL 62707-9722",IL,217-492-4070,
 73,Confederate Mound,"Oak Woods Cemetery, 1035 E 67th St Chicago, IL 60637",IL,815-423-9958,
-809,Danville National Cemetery,"1900 East Main Street Danville, IL 61832 ",IL,217-554-4550,"5063 Camp Butler RD Springfield, IL 62707"
-863,Mound City National Cemetery,"141 State Highway 37 Mound City, IL 62963 ",IL,618-748-9107,"141 State Highway 37 Mound City, IL 62963"
+809,Danville National Cemetery,"1900 East Main Street Danville, IL 61832Â ",IL,217-554-4550,"5063 Camp Butler RDÂ Springfield, IL 62707"
+863,Mound City National Cemetery,"141 State Highway 37 Mound City, IL 62963Â ",IL,618-748-9107,"141 State Highway 37Â Mound City, IL 62963"
 77,North Alton Confederate Cemetery,"635 Rozier Street Alton, IL 62003",IL,314-845-8320,
 820,Quincy National Cemetery,"36th & Maine Street Quincy, IL 62301",IL,309-782-2094,
 79,Rock Island Confederate Cemetery,"Rodman Avenue, Rock Island Arsenal Rock Island, IL 61299",IL,309-782-2094,
 821,Rock Island National Cemetery,"Bldg, 118, Rock Island Arsenal Rock Island, IL 61299",IL,309-782-2094,
-328,Chicago Regional Benefit Office,"2122 W Taylor Street Chicago, IL 60612 ",IL,800-827-1000,"Department of Veterans Affairs / Claims Intake Center / PO Box 5235 Janesville, WI 53547-5235"
+328,Chicago Regional Benefit Office,"2122 W Taylor Street Chicago, IL 60612Â ",IL,800-827-1000,"Department of Veterans Affairs / Claims Intake Center / PO Box 5235Â Janesville, WI 53547-5235"
 328,Intake Site At Great Lakes Naval Station,"BDD Intake Site/VA Medical Center N Chicago, IL 60088",IL,,
 328,Intake Site At Scott Air Force Base,"Fleet & Family Support, Call (847) 688-3603 Scott Air Force Base, IL 62225",IL,,
 603GB,"VA Healthcare Center, New Albany IN","4347 Security Parkway New Albany, IN 47150",IN,502-287-4100 Or 502-287-4100,
 603GG,"VA Healthcare Center, Scott County","1467 Scott Valley Drive Scottsburg, IN 47170",IN,877-690-1938 Or 877-690-1938,
-583QA,Bloomington Mental Health Outpatient Clinic,"1332 West Arch Haven Avenue Bloomington, IN 47403 ",IN,812-349-4406,
+583QA,Bloomington Mental Health Outpatient Clinic,"1332 West Arch Haven Avenue Bloomington, IN 47403Â ",IN,812-349-4406,
 583GB,Bloomington VA Clinic,"455 South Landmark Avenue Bloomington, IN 47403",IN,812-336-5723,
 0409V,Fort Wayne Vet Center,"5800 Fairfield Ave., Suite 265 Fort Wayne, IN 46807",IN,260-460-1456 Or 260-460-1456,
 610A4,Goshen VA Outpatient Clinic,"2606 Peddlers Village Road Suite 210 Goshen, IN 46526",IN,574-534-6108 Or 877-292-0968,
@@ -665,7 +665,7 @@ StationID,Facility,Address,State,Phone,Mailing_Address
 610,VA Northern Indiana Health Care System,"2121 Lake Ave. Fort Wayne, IN 46805",IN,260-426-5431 Or 260-426-5431,
 610,VA Northern Indiana Health Care System - Marion Campus,"1700 East 38th Street Marion, IN 46953-4589",IN,765-674-3321 Or 765-674-3321,
 610A4,VA Northern Indiana Health Care System-Fort Wayne Campus,"2121 Lake Ave. Fort Wayne, IN 46805",IN,260-426-5431 Or 260-426-5431,
-583GF,Wakeman VA Outpatient Clinic,"3791 10th St Edinburgh, IN 46124 ",IN,317-988-0300,"Camp Atterbury, 3791 10th St., Bldg. 100 Edinburgh, IN 46124"
+583GF,Wakeman VA Outpatient Clinic,"3791 10th St Edinburgh, IN 46124Â ",IN,317-988-0300,"Camp Atterbury, 3791 10th St., Bldg. 100Â Edinburgh, IN 46124"
 583GE,West Lafayette VA Clinic,"3851 N. River Road Lafayette, IN 47906",IN,,
 537BY,"Adam Benjamin, Jr. OPC","9301 Madison Street Crown Point, IN 46307",IN,219-662-5000,
 0412V,Gary Area Vet Center,"107 E. 93rd Ave Crown Point, IN 46307",IN,219-736-5633 Or 877-927-8387,
@@ -678,7 +678,7 @@ StationID,Facility,Address,State,Phone,Mailing_Address
 807,Crown Hill National Cemetery,"700 W. 38th Street Indianapolis, IN 46208",IN,765-674-0284,
 817,Marion National Cemetery,"1700 East 38 Street, VA Medical Center Marion, IN 46952",IN,765-674-0284,
 774,Midwest District,"575 North Pennsylvania Street Indianapolis, IN 46204",IN,317-916-3790,
-81,Woodlawn Monument Site,"North 3rd Street and 4th Avenue Terre Haute, IN 47802 ",IN,217-492-4070,"5063 Camp Butler RD Springfield, IL 62707"
+81,Woodlawn Monument Site,"North 3rd Street and 4th Avenue Terre Haute, IN 47802Â ",IN,217-492-4070,"5063 Camp Butler RDÂ Springfield, IL 62707"
 326,Indianapolis Regional Benefit Office,"575 N Pennsylvania St. Indianapolis, IN 46204",IN,800-827-1000,
 589GM,Chanute - Neosho Memorial Medical Center,"629 South Plummer Chanute, KS 66720",KS,800-574-8387 X 54453,
 589G2,"Dodge City, Kansas CBOC","2201 Summerlon Circle Dodge City, KS 67843",KS,888-878-6881 X 57450,
@@ -745,7 +745,7 @@ StationID,Facility,Address,State,Phone,Mailing_Address
 320,Intake Site At Fort Campbell,"Lee Soldier & Family Support Center Fort Campbell, KY 42223",KY,,
 327,Intake Site At Fort Knox,"Spearhead Division Road, Bldg 1109-C, Room 126 Fort Knox, KY 40121",KY,502-624-5222 Or 502-624-2227,
 327,Louisville Regional Benefit Office,"321 West Main Street, Suite 390 Louisville, KY 40202",KY,,
-502,Alexandria VA Health Care System,"2495 Shreveport Hwy 71 N Pineville, LA 71360-4044 ",LA,318-473-0010,"Department of Veteran Affairs Medical Center, P.O. Box 69004 Alexandria, LA 71306-9004"
+502,Alexandria VA Health Care System,"2495 Shreveport Hwy 71 N Pineville, LA 71360-4044Â ",LA,318-473-0010,"Department of Veteran Affairs Medical Center, P.O. Box 69004Â Alexandria, LA 71306-9004"
 0734V,Alexandria Vet Center,"5803 Coliseum Blvd., Sute D Alexandria, LA 71303",LA,318-466-4327 Or 877-927-8387,
 629BY,Baton Rouge Outpatient Clinic,"7968 Essen Park Ave. Baton Rouge, LA 70809",LA,225-761-3400,
 0725V,Baton Rouge Vet Center,"7850 Anselmo Lane, Suite B Baton Rouge, LA 70810",LA,225-761-3140 Or 225-761-3140,
@@ -756,8 +756,8 @@ StationID,Facility,Address,State,Phone,Mailing_Address
 502GD,Houma CBOC,"6433 West Park Avenue Houma, LA 70364",LA,985-851-0188 Or 800-935-8387 X 0,
 502GA,Jennings Clinic,"1907 Johnson St. Jennings, LA 70546",LA,337-824-1000,
 667,Knight Street Clinic,"3000 Knight Street Building 5 Shreveport, LA 71105",LA,318-221-8411 X 7411,
-502GB,Lafayette CBOC Campus A€”Specialty and Primary Care,"3149 Ambassador Caffery Parkway Lafayette, LA 70501",LA,337-706-3415,
-502GB,Lafayette CBOC Campus B€”Mental Health,"309 St. Julien Avenue Lafayette, LA 70506",LA,337-706-3415,
+502GB,Lafayette CBOC Campus AÂ€Â”Specialty and Primary Care,"3149 Ambassador Caffery Parkway Lafayette, LA 70501",LA,337-706-3415,
+502GB,Lafayette CBOC Campus BÂ€Â”Mental Health,"309 St. Julien Avenue Lafayette, LA 70506",LA,337-706-3415,
 502GL,Lake Charles CBOC,"3601 Gerstner Memorial Drive, Hwy14 Lake Charles, LA 70607",LA,337-475-9500,
 667GB,Monroe CBOC,"1691 Bienville Dr Monroe, LA 71203",LA,318-343-6100,
 502GG,Natchitoches CBOC,"740 Keyser Avenue Natchitoches, LA 71457",LA,318-357-3300,
@@ -769,10 +769,10 @@ StationID,Facility,Address,State,Phone,Mailing_Address
 629E,Slidell VA Outpatient Clinic,"60491 Doss Dr Ste B Slidell, LA 70460",LA,985-690-2626 Or 985-690-2626,
 629,Southeast Louisiana Veterans Health Care System,"2400 Canal Street New Orleans, LA 70119",LA,800-935-8387 Or 800-935-8387,
 629,St. John VA Outpatient Clinic,"4004 West Airline Hwy. Reserve, LA 70084",LA,504-565-4705,
-825,Alexandria National Cemetery,"209 East Shamrock Street Pineville, LA 71360 ",LA,318-449-1793,"41 Cemetery Road Natchez, MS 39120"
-829,Baton Rouge National Cemetery,"220 North 19th Street Baton Rouge, LA 70806 ",LA,225-654-1988,"303 West Mount Pleasant Road Zachary, LA 70791"
-970,Louisiana National Cemetery,"303 W. Mount Pleasant Road Zachary, LA 70791 ",LA,225-654-1988,"303 West Mount Pleasant Road Zachary, LA 70791"
-870,Port Hudson National Cemetery,"20978 Port Hickey Road Zachary, LA 70791 ",LA,225-654-1988,"303 West Mount Pleasant Road Zachary, LA 70791"
+825,Alexandria National Cemetery,"209 East Shamrock Street Pineville, LA 71360Â ",LA,318-449-1793,"41 Cemetery RoadÂ Natchez, MS 39120"
+829,Baton Rouge National Cemetery,"220 North 19th Street Baton Rouge, LA 70806Â ",LA,225-654-1988,"303 West Mount Pleasant RoadÂ Zachary, LA 70791"
+970,Louisiana National Cemetery,"303 W. Mount Pleasant Road Zachary, LA 70791Â ",LA,225-654-1988,"303 West Mount Pleasant RoadÂ Zachary, LA 70791"
+870,Port Hudson National Cemetery,"20978 Port Hickey Road Zachary, LA 70791Â ",LA,225-654-1988,"303 West Mount Pleasant RoadÂ Zachary, LA 70791"
 321,Intake Site At Barksdale Air Force Base,"Department of Veterans Affairs New Orleans, LA 70113",LA,,
 321,Intake Site At Fort Polk,"Bayne Jones Army Community Hospital1585 3rd St. Rm 1221 Fort Polk, LA 71459",LA,,
 321,Intake Site At NSA (No MOU),"Department of Veterans Affairs New Orleans, LA 70113",LA,,
@@ -846,7 +846,7 @@ StationID,Facility,Address,State,Phone,Mailing_Address
 313,Intake Site At Aberdeen Proving Ground,"APG Retirement Services Offices Susquehanna Ave Bldg 4305 Room 243A Aberdeen Proving Ground, MD 21005",MD,,
 372,Intake Site At Andrews Air Force Base,"Airman & Family Readiness Center, 316 MSS/DPF Andrews AFB, MD 20762",MD,,
 313,Intake Site At Annapolis Naval Station/USNA,"250 Wood Road Annapolis, MD 21402",MD,410-293-1202,
-313,Intake Site At Bethesda NNH (No MOU),"  , MD",MD,,
+313,Intake Site At Bethesda NNH (No MOU),"Â  , MD",MD,,
 313,Intake Site At Fort Detrick,"Community Support Center 1520 Freedman Drive, Room 123 Fort Detrick, MD 21702",MD,,
 313,Intake Site At Fort Meade,"Kimbrough Ambulatory Care Center3rd floor Room 3A04 Fort Meade, MD 20755",MD,,
 313,Intake Site At Indian Head Naval Ord,"Fleet and Family Support Center12 Strauss Avenue Indian Head, MD 20640",MD,,
@@ -898,13 +898,13 @@ StationID,Facility,Address,State,Phone,Mailing_Address
 655GB,Traverse City VA Outpatient Clinic,"3271 RACQUET CLUB DRIVE Traverse City, MI 49684",MI,231-932-9720 Or 800-406-5143 X 11412,
 445,Traverse City Vet Center,"3766 N US 31 South Traverse City, MI 49684",MI,231-935-0051 Or 877-927-8387,
 506GB,VA Ann Arbor - Flint Community Based Outpatient Clinic,"2360 South Linden Road Flint, MI 48532",MI,810-720-2913,
-506QB,VA Ann Arbor - Green Road Outpatient Clinic,"2500 Green Road Ann Arbor, MI 48105 ",MI,734-769-7100,"2500 Green Road Ann Arbor, MI 48105"
+506QB,VA Ann Arbor - Green Road Outpatient Clinic,"2500 Green Road Ann Arbor, MI 48105Â ",MI,734-769-7100,"2500 Green RoadÂ Ann Arbor, MI 48105"
 506GC,VA Ann Arbor - Jackson Community Based Outpatient Clinic,"4328 Page Avenue Michigan Center, MI 49254",MI,517-764-3609,
-506,VA Ann Arbor - North Campus Research Complex,"2800 Plymouth Road Ann Arbor, MI 48105 ",MI,734-769-7100,"2800 Plymouth Road Ann Arbor, MI 48105"
-506,VA Ann Arbor - Offsite Warehouse,"844 Highland Drive Ann Arbor, MI 48105 ",MI,734-769-7100,"844 Highland Drive Ann Arbor, MI 48105"
-506QA,VA Ann Arbor - Packard Road Outpatient Clinic,"3800 Packard Road Ann Arbor, MI 48108 ",MI,734-769-7100,"3800 Packard Road Ann Arbor, MI 48105"
-506,VA Ann Arbor Business Office,"2200 Commonwealth Blvd Ann Arbor, MI 48105 ",MI,734-769-7100,"2200 Commonwealth Blvd Ann Arbor, MI 48105"
-506,VA Ann Arbor Finance & Payroll Office,"3001 Earhart Road Ann Arbor, MI 48105 ",MI,734-769-7100,"3001 Earhart Road Ann Arbor, MI 48105"
+506,VA Ann Arbor - North Campus Research Complex,"2800 Plymouth Road Ann Arbor, MI 48105Â ",MI,734-769-7100,"2800 Plymouth RoadÂ Ann Arbor, MI 48105"
+506,VA Ann Arbor - Offsite Warehouse,"844 Highland Drive Ann Arbor, MI 48105Â ",MI,734-769-7100,"844 Highland DriveÂ Ann Arbor, MI 48105"
+506QA,VA Ann Arbor - Packard Road Outpatient Clinic,"3800 Packard Road Ann Arbor, MI 48108Â ",MI,734-769-7100,"3800 Packard RoadÂ Ann Arbor, MI 48105"
+506,VA Ann Arbor Business Office,"2200 Commonwealth Blvd Ann Arbor, MI 48105Â ",MI,734-769-7100,"2200 Commonwealth BlvdÂ Ann Arbor, MI 48105"
+506,VA Ann Arbor Finance & Payroll Office,"3001 Earhart Road Ann Arbor, MI 48105Â ",MI,734-769-7100,"3001 Earhart RoadÂ Ann Arbor, MI 48105"
 506,VA Ann Arbor Healthcare System,"2215 Fuller Road Ann Arbor, MI 48105",MI,734-769-7100 Or 734-769-7100,
 10N11,VISN 11: Veterans In Partnership (Now VISN 10),"24 Frank Lloyd Wright Drive, Lobby L Ann Arbor, MI 48113-4002",MI,,
 515BY,Wyoming Health Care Center,"5838 Metro Way Wyoming, MI 49519",MI,616-249-5300,
@@ -996,7 +996,7 @@ StationID,Facility,Address,State,Phone,Mailing_Address
 394,Midwest District,"9700 Page Avenue, Suite 301 St. Louis, MO 63132",MO,800-827-1000,
 331,St. Louis Regional Benefit Office,"9700 Page Avenue St. Louis, MO 63132",MO,800-827-1000,
 376,VA Records Management Center,"4300 Goodfellow Blvd., Bldg. 104 St. Louis, MO 63120",MO,888-533-4558 Or 888-533-4558,
-6307,VA Saipan Outreach Clinic,"Marina Heights Business Park Saipan, MP 96950 ",MP,670-323-9000 Or 670-322-0035,"PO Box 500938 Saipan, MP 96950"
+6307,VA Saipan Outreach Clinic,"Marina Heights Business Park Saipan, MP 96950Â ",MP,670-323-9000 Or 670-322-0035,"PO Box 500938Â Saipan, MP 96950"
 614,Holly Springs CBOC,"1700 Crescent Meadow Dr Holly Springs, MS 38635",MS,662-252-2552,
 614,Tupelo VA Clinic,"1114 Commonwealth Blvd Tupelo, MS 38804",MS,662-840-6366,
 0737V,Biloxi Vet Center,"288 Veterans Ave Biloxi, MS 39531",MS,228-388-9938 Or 228-388-9938,
@@ -1010,7 +1010,7 @@ StationID,Facility,Address,State,Phone,Mailing_Address
 586GG,McComb,"1308 Harrison Ave McComb, MS 39648",MS,601-250-0965,
 586GB,Meridian CBOC,"2103 13th St Meridian, MS 39301",MS,601-482-3275,
 586GE,Natchez CBOC,"105 Northgate Drive, Suite 2 Natchez, MS 39120",MS,601-442-7141,
-10N16,VISN 16: South Central VA Health Care Network,"715 S. Pear Orchard Road Ridgeland, MS 39157 ",MS,601-206-6900,"715 S. Pear Orchard Road Ridgeland, MS 39157"
+10N16,VISN 16: South Central VA Health Care Network,"715 S. Pear Orchard Road Ridgeland, MS 39157Â ",MS,601-206-6900,"715 S. Pear Orchard RoadÂ Ridgeland, MS 39157"
 832,Biloxi National Cemetery,"400 Veterans Avenue Bldg. 1001 Biloxi, MS 39531",MS,228-388-6668,
 866,Natchez National Cemetery,"41 Cemetery Road Natchez, MS 39120",MS,601-445-4981,
 838,Corinth National Cemetery,"1551 Horton Street Corinth, MS 38834",MS,901-386-8311,
@@ -1120,11 +1120,11 @@ StationID,Facility,Address,State,Phone,Mailing_Address
 636,Omaha VA Medical Center--VA Nebraska-Western Iowa HCS,"4101 Woolworth Avenue Omaha, NE 68105",NE,402-346-8800 Or 800-451-5796,
 0424V,Omaha Vet Center,"3047 S 72nd Street Omaha, NE 68124",NE,402-346-6735 Or 877-927-8387,
 568HH,Panhandle of Nebraska CBOC,"601 S 5th Ave Scottsbluff, NE 69361",NE,308-225-5330,
-58,Forest Lawn Cemetery Soldiers' Lot,"Forest Lawn Memorial Park, 7909 Mormon Bridge Road Omaha, NE 68112 ",NE,913-758-4105,"14250 Schram Road Omaha, NE 68138"
+58,Forest Lawn Cemetery Soldiers' Lot,"Forest Lawn Memorial Park, 7909 Mormon Bridge Road Omaha, NE 68112Â ",NE,913-758-4105,"14250 Schram RoadÂ Omaha, NE 68138"
 890,Fort McPherson National Cemetery,"12004 South Spur 56A Maxwell, NE 69151",NE,308-582-4433,
 935,Omaha National Cemetery,"14250 Schram Road Omaha, NE 68138",NE,402-253-3949,
 334,Intake Site At Offutt Air Force Base,"Military Services Coordinator Offutt, AFB, NE",NE,,
-334,Lincoln Regional Benefit Office,"3800 Village Drive Lincoln, NE 68516 ",NE,800-827-1000,"PO Box 85816 Lincoln, NE 68501-5816"
+334,Lincoln Regional Benefit Office,"3800 Village Drive Lincoln, NE 68516Â ",NE,800-827-1000,"PO Box 85816Â Lincoln, NE 68501-5816"
 134,Berlin Vet Center,"515 Main Street Suite 2 Gorham, NH 03581",NH,603-752-2571,
 608GD,Conway Outpatient Clinic,"71 Hobbs Street Conway, NH 03818",NH,800-892-8384 X 3199,
 405K,Keene Outpatient Clinic,"640 Marlboro Street, Route 101 Keene, NH 03431",NH,603-358-4900,
@@ -1190,9 +1190,9 @@ StationID,Facility,Address,State,Phone,Mailing_Address
 501GC,Silver City Clinic,"2950 Leslie Road Silver City, NM 88061",NM,575-538-2921,
 501,Taos CCBOC,"1353 Paseo Del Pueblo Sur Taos, NM 87571",NM,575-751-0328,
 501GH,Truth or Consequences CCBOC,"1960 North Date Street Truth or Consequences, NM 87901",NM,575-894-7662,
-885,Fort Bayard National Cemetery,"200 Camino De Paz Fort Bayard, NM 88036 ",NM,505-988-6400,"P.O. Box 1111 Santa Clara, NM 88026"
+885,Fort Bayard National Cemetery,"200 Camino De Paz Fort Bayard, NM 88036Â ",NM,505-988-6400,"P.O. Box 1111Â Santa Clara, NM 88026"
 904,Santa Fe National Cemetery,"501 North Guadalupe Street Santa Fe, NM 87501",NM,505-988-6400,
-340,Albuquerque Regional Benefit Office,"500 Gold Avenue, S.W. Albuquerque, NM 87102 ",NM,800-827-1000,"PO Box 900 Albuquerque, NM 87103"
+340,Albuquerque Regional Benefit Office,"500 Gold Avenue, S.W. Albuquerque, NM 87102Â ",NM,800-827-1000,"PO Box 900Â Albuquerque, NM 87103"
 660GK,Elko Outreach Clinic,"2719 Argent Ave. #9 Elko, NV 89801",NV,775-738-0188,
 534,Henderson Vet Center,"400 North Stephanie, Suite 180 Henderson, NV 89014",NV,702-791-9100 Or 702-791-9100,
 654,Lahontan Valley VA Clinic,"1020 New River Parkway, Suite 304 Fallon, NV 89406",NV,775-428-6161,
@@ -1267,7 +1267,7 @@ StationID,Facility,Address,State,Phone,Mailing_Address
 528GW,Schenectady VA Outpatient Clinic,"1346 Gerling Street, Sheridan Plaza   Schenectady, NY 12308",NY,518-346-3334  ,
 528GQ,Springville,"15 Commerce Drive   Springville, NY 14141",NY,716-592-2409  ,
 630A5,St. Albans Community Living Center,"179-00 Linden Blvd. & 179 Street   Jamaica, NY 11425",NY,718-526-1000  ,
-132V,Staten Island Community Clinic,"1150 South Ave, 3rd Floor €“ Suite 301   Staten Island, NY 10314",NY,718-761-2973  ,
+132V,Staten Island Community Clinic,"1150 South Ave, 3rd Floor Â€Â“ Suite 301   Staten Island, NY 10314",NY,718-761-2973  ,
 132,Staten Island Vet Center,"60 Bay Street   Staten Island, NY 10301",NY,718-816-4499 Or 718-816-4499  ,
 528A7,Syracuse VA Medical Center,"800 Irving Avenue   Syracuse, NY 13210",NY,315-425-4400 Or 315-425-4400  ,
 131,Syracuse Vet Center,"109 Pine Street, Suite 101   Syracuse, NY 13210",NY,315-478-7127 Or 315-478-7127  ,
@@ -1521,7 +1521,7 @@ StationID,Facility,Address,State,Phone,Mailing_Address
 544BZ,Greenville Clinic,"41 Park Creek Drive   Greenville, SC 29605",SC,864-299-1600  ,
 0316V,"Greenville, SC Vet Center","3 Caledon Court, Suite B   Greenville, SC 29615",SC,864-271-2711 Or 864-271-2711  ,
 534GB,Myrtle Beach CBOC,"3381 Phillis Blvd.   Myrtle Beach, SC 29577",SC,843-477-0177  ,
-534QA,Myrtle Beach VA Clinic €“ Market Common,"1101 Johnson Avenue   Myrtle Beach, SC 29577",SC,843-477-0177  ,
+534QA,Myrtle Beach VA Clinic Â€Â“ Market Common,"1101 Johnson Avenue   Myrtle Beach, SC 29577",SC,843-477-0177  ,
 0347V,Myrtle Beach Vet Center,"2024 Corporate Centre Dr, Suite 103   Myrtle Beach, SC 29577",SC,843-232-2441 Or 843-232-2441  ,
 544GE,Orangeburg County Clinic,"1767 Villagepark Drive   Orangeburg, SC 29118",SC,803-533-1335  ,
 534,Ralph H. Johnson VA Medical Center,"109 Bee Street   Charleston, SC 29401-5799",SC,843-577-5011 Or 843-577-5011  ,
@@ -1529,7 +1529,7 @@ StationID,Facility,Address,State,Phone,Mailing_Address
 544,Spartanburg CBOC,"279 North Grove Medical Park Drive   Spartanburg, SC 29303",SC,864-582-7025  ,
 544,Sumter County Clinic,"407 North Salem Avenue   Sumter, SC 29150",SC,803-938-9901  ,
 534GF,Trident VA Clinic,"9237 University Blvd   North Charleston, SC 29406",SC,843-789-6400  ,
-534QB,Trident VA Clinic €“ 9229 University Blvd,"9229 University Blvd., Bldg. F, Suite 2A   North Charleston, SC 29406",SC,843-789-6400  ,
+534QB,Trident VA Clinic Â€Â“ 9229 University Blvd,"9229 University Blvd., Bldg. F, Suite 2A   North Charleston, SC 29406",SC,843-789-6400  ,
 534QC,VA Community Resource and Referral Center,"2424 City Hall Lane   North Charleston, SC 29405",SC, ,
 544,Wm. Jennings Bryan Dorn VA Medical Center,"6439 Garners Ferry Road   Columbia, SC 29209-1639",SC,803-776-4000  ,
 831,Beaufort National Cemetery,"1601 Boundary St.   Beaufort, SC 29902-3947",SC,843-524-3925  ,
@@ -1555,7 +1555,7 @@ StationID,Facility,Address,State,Phone,Mailing_Address
 568A4,VA Black Hills Health Care System - Hot Springs Campus,"500 North 5th Street   Hot Springs, SD 57747",SD,605-745-2000 Or 605-745-2000  ,
 568,VA Black Hills Health Care System - Fort Meade Campus,"113 Comanche Road   Fort Meade, SD 57741",SD,605-347-2511 Or 605-347-2511  ,
 438GE,Wagner Outreach Clinic,"400 West Hwy 46   Wagner, SD 57380",SD,605-384-2340  ,
-438GF,Watertown CBOC,"917 €“ 29th Street SE   Watertown, SD 57201",SD,605-884-2420  ,
+438GF,Watertown CBOC,"917 Â€Â“ 29th Street SE   Watertown, SD 57201",SD,605-884-2420  ,
 568HP,Winner VA Clinic,"660 West 2nd Street   Winner, SD 57580",SD,605-842-2443  ,
 884,Black Hills National Cemetery,"20901 Pleasant Valley Drive   Sturgis, SD 57785",SD,605-347-3830  ,
 891,Fort Meade National Cemetery,"Old Stone Rd.   Sturgis, SD 57785",SD,605-347-3830  ,
